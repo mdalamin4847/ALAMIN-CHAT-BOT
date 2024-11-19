@@ -15,13 +15,26 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "prefix") {
  return message.reply({
  body: `
-Yo, my prefix is [ 𓆩 _<?>_ 𓆪 ]\n
-𝗦𝗢𝗠𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗧𝗛𝗔𝗧 𝗠𝗔𝗬 𝗛𝗘𝗟𝗣 𝗬𝗢𝗨:
-➥ &help [number of page] -> see commands
-➥ &sim [message] -> talk to bot
-➥ &callad [message] -> report any problem encountered
-➥ &help [command] -> information and usage of command\n\nHave fun using it enjoy!❤️\nBot Developer: https://www.facebook.com/BAYJID.500k`,
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/I8JSUWI.jpeg")
+Yo, my prefix is ╔╝❮ ❯╚╗
+━━━━━━━━━━━━━━━━━━━━━━
+𝗡𝗔𝗠𝗘: BOSS~ASHIK
+𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌
+𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝗧𝗔𝗥𝗔𝗞𝗔𝗡𝗗𝗜, 𝗦𝗔𝗥𝗜𝗦𝗛𝗔𝗕𝗔𝗥𝗜, 𝗝𝗔𝗠𝗔𝗟𝗣𝗨𝗥
+𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄
+𝐀𝐆𝐄: 17+
+𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝗦𝗜𝗡𝗚𝗟𝗘
+𝐖𝐎𝐑𝐊: 𝗦𝗧𝗨𝗗𝗘𝗡𝗧
+𝐆𝐌𝐀𝐈𝐋: bossagor745@gmail.com
+𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://www.facebook.com/profile.php?id=100095089282395&mibextid=ZbWKwL 
+𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑:  পেম করলে দিবো 😛
+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+881647711001
+𝐈𝐌𝐎: 01647711001
+𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: @DXAshik
+━━━━━━━━━━━━━━━━━━━━━━
+
+Bot Prefix: ( / )
+Bot Name: ASHIK~BOT`,
+ attachment: await global.utils.getStreamFromURL("https://scontent.xx.fbcdn.net/v/t42.3356-2/465802677_8194201450683666_3022630170231734073_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=yLqeRe0wHCcQ7kNvgHJIcqf&_nc_zt=28&_nc_ht=scontent.xx&_nc_gid=A42bb8NHxezXIgJzD-xhriL&oh=03_Q7cD1QGAZqppxKlq4loQgBprJQj8XB4xJIQvOBIyru7dv2SpgA&oe=673CD9BB&dl=1")
  });
  }
  }
