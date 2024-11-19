@@ -1,5 +1,5 @@
-<img src=["https://scontent.xx.fbcdn.net/v/t1.15752-9/462646567_547886214867626_4191168610820731125_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFZjedxdSOMQgcqb5ZrYDRLPsdEC5R_hpM-x0QLlH-GkzoiTqBw9LSTOg7NZXANeagDMbRfnLzsVNe91ox-awO1&_nc_ohc=tWsKHfYymqYQ7kNvgE-M45d&_nc_ad=z-m&_nc_cid=0&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHPwFgJh2ei7tRamjrAXDUGBFhYBbL7Qlcb_u8STchv4g&oe=67641812"] alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> ASHIK -𝗕𝗢𝗧 - BOSS~ASHIK 𝗕𝗢𝗧</h1>
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462646567_547886214867626_4191168610820731125_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFZjedxdSOMQgcqb5ZrYDRLPsdEC5R_hpM-x0QLlH-GkzoiTqBw9LSTOg7NZXANeagDMbRfnLzsVNe91ox-awO1&_nc_ohc=tWsKHfYymqYQ7kNvgE-M45d&_nc_ad=z-m&_nc_cid=0&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHPwFgJh2ei7tRamjrAXDUGBFhYBbL7Qlcb_u8STchv4g&oe=67641812" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐁𝐀𝐘𝐉𝐈𝐃 -𝗕𝗢𝗧 - 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am BAYJID %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -18,7 +18,7 @@
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/BAYJID-901"><img width=550 src="https://github-profile-trophy.vercel.app/?username=BOSS~ASHIK&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/BAYJID-901"><img width=550 src="https://github-profile-trophy.vercel.app/?username=𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 </p>
 <p align="center"> 
@@ -48,11 +48,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃](https://www.facebook.com/profile.php?id=100095089282395&mibextid=ZbWKwL)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃](https://www.facebook.com/100065506668822)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃 ](https://www.facebook.com/profile.php?id=100095089282395&mibextid=ZbWKwL)
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃 ](https://www.instagram.com/mr_bayjid120)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
