@@ -20,7 +20,7 @@ config: {
       gender: 'Male',
       age: '17+',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/BAYJID.404',
+      facebookLink: 'https://www.facebook.com/profile.php?id=100095089282395&mibextid=ZbWKwL',
       nick: 'BIJU'
     };
 
@@ -33,7 +33,7 @@ config: {
     }
 
     const videoResponse = await axios.get(bold, { responseType: 'arraybuffer' });
-    const videoPath = path.join(tmpFolderPath, 'owner_video.mp4');
+    const videoPath = path.join(tmpFolderPath, "/noprefix/prefix.gif");
 
     fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
