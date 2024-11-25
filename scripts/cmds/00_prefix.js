@@ -34,7 +34,7 @@ Yo, my prefix is [╔╝❮ ❯╚╗
 
 Bot Prefix: ( / )
 Bot Name: ASHIK~BOT]`,
- attachment: await global.utils.getStreamFromURL("https://scontent.xx.fbcdn.net/v/t42.3356-2/465802677_8194201450683666_3022630170231734073_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=4f86bc&_nc_eui2=AeHCSr-_7H_4qjVU_azC1TDap6_Tefdcg-Wnr9N591yD5abKjbhaW7R-42PbfERM-9Mfg7tCC4ewDxjKCFQyIgKG&_nc_ohc=vLgvSmngNS4Q7kNvgGcdWgX&_nc_zt=28&_nc_ht=scontent.xx&_nc_gid=A8oTF3NQfyULC1THckKr8Ps&oh=03_Q7cD1QF3hUXWofiSC40mayepk7cGrkb_mYilVmpu13Lo2HlDsA&oe=673F7CBB&dl=1")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/hwLP4lF.mp4")
  });
  }
  }
