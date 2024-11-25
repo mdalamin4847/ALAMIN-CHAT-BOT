@@ -15,7 +15,7 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "Ashik") {
  return message.reply({
  body: " 「❥︎----ღ᭄_ᴬˢˢᴬᴸᴬᴹᴼᴸᴬᴵᴷᵁᴹ ..\n❥︎----ღ᭄_  ᴮᴿᴼᵀᴴᴱᴿ❞࿐.🌴.\n❥ ᴍᴏʜᴀᴍᴍᴀᴅ ʙᴀʏᴊɪᴅ\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\n𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃」",
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/XlyIOMR.mp4")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/YUeM5D2.mp4")
  });
  }
  }
