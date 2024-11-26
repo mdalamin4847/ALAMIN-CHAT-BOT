@@ -16,11 +16,11 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'BOSS~ASHIK'
+      name: '𝐌𝐝 𝐀𝐥𝐚𝐦𝐢𝐧 𝐂𝐡𝐨𝐰𝐝𝐡𝐮𝐫𝐲'
       gender: 'Male',
       age: '17+',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/profile.php?id=100095089282395&mibextid=ZbWKwL',
+      facebookLink: 'https://www.facebook.com/MRALAMINXHOWDHURY?mibextid=ZbWKwL',
       nick: 'BIJU'
     };
 
