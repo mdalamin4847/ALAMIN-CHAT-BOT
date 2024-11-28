@@ -1,4 +1,4 @@
-<img src="" alt="banner">
+<img src="https://www.pinterest.com/pin/nice--682436149802566238/" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">ALAMIN-AI</h1>
 <!-- Github README -->
 
